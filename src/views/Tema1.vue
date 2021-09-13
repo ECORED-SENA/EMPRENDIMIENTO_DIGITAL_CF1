@@ -24,7 +24,7 @@
       figure
         img(src='@/assets/curso/t1/f2.svg' alt='figura relacionada')
     p En el esquema anterior se muestra la importancia de la creatividad para poder satisfacer la necesidad del cliente o clientes, a partir del valor agregado o factor diferenciador que se aplique al desarrollo de la idea y convertirla realmente en una innovación.
-    .row.mb-5
+    .row.align-items-center.mb-5
       .col-lg-7
         .cajon.color-primario.p-4.mb-4
           p.mb-0 El emprendimiento no solo entrega valor a un cliente, sino también aporta a las oportunidades de ingresos a personas que trabajan para el emprendimiento, proveedores, entre otros.
@@ -35,7 +35,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small.texto-blanco.mb-0 Para entenderlo de otra forma se invita a revisar en el material complementario el  video que comparte el Ministerio de las  TIC sobre emprendimiento.
+                  p.texto-blanco.mb-0 Para entenderlo de otra forma se invita a revisar en el material complementario el  video que comparte el Ministerio de las  TIC sobre emprendimiento.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=WTiM1yq99oI" target="_blank")
                     span Ver más
@@ -44,13 +44,13 @@
         ul.lista-ul--color
           li 
             .bullet.fcs
-            p ¿Qué emprendimientos reconoce a nivel regional, nacional y mundial que logren inspirar una idea innovadora?
+            p.mb-0 ¿Qué emprendimientos reconoce a nivel regional, nacional y mundial que logren inspirar una idea innovadora?
           li 
             .bullet.fcs
-            p ¿Se tiene algún modelo a seguir de emprendimiento?
+            p.mb-0 ¿Se tiene algún modelo a seguir de emprendimiento?
           li 
             .bullet.fcs
-            p ¿Hay alguna idea que se quiera materializar?
+            p.mb-0 ¿Hay alguna idea que se quiera materializar?
         p Mientras reflexiona al respecto, se invita a ver algunas historias inspiradoras de emprendimiento.
       .col-lg-5
         figure
@@ -67,9 +67,10 @@
         figure
           img(src='@/assets/curso/t1/f4.png' alt='mujer con una tablet')
       .col-lg-8
-        .cajon-b.color-acento-contenido.p-4
-          p Uno de los factores claves de Netflix fue analizar lo que se venía y no quedarse atrás, de hecho, uno de los gigantes de la industria de las películas en los 90 era Blockbuster y hoy ya no existe, posiblemente porque no tuvo en cuenta los cambios que venían con la influencia de Internet en las casas y lo que esto representaba en la sociedad de consumo, que cambió sus hábitos, volviéndose obsoleto y, sin ninguna alternativa a este cambio dejó de existir en el mercado.
-        p.px-4 En Colombia también hay varias historias de emprendimiento, lo que ha llevado a que exista diversas convocatorias para promover estas nuevas ideas, revise, por ejemplo, en el material complementario un video de un emprendimiento en videojuegos que tuvo la oportunidad de ganar una convocatoria en el Ministerio TIC.
+        .cajon-b.color-acento-contenido.p-3
+          p.mb-0 Uno de los factores claves de Netflix fue analizar lo que se venía y no quedarse atrás, de hecho, uno de los gigantes de la industria de las películas en los 90 era Blockbuster y hoy ya no existe, posiblemente porque no tuvo en cuenta los cambios que venían con la influencia de Internet en las casas y lo que esto representaba en la sociedad de consumo, que cambió sus hábitos, volviéndose obsoleto y, sin ninguna alternativa a este cambio dejó de existir en el mercado.
+        .cajon-c.p-3
+          p.mb-0 En Colombia también hay varias historias de emprendimiento, lo que ha llevado a que exista diversas convocatorias para promover estas nuevas ideas, revise, por ejemplo, en el material complementario un video de un emprendimiento en videojuegos que tuvo la oportunidad de ganar una convocatoria en el Ministerio TIC.
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -86,7 +87,7 @@
         .bloque-texto-d.color-primario.p-4.mb-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular Piense por un momento qué es lo primero que se imagina cuando le mencionan los términos “Emprendimiento digital”, es posible que lo primero que traiga a su mente sea un emprendimiento de videojuegos, creadores de contenido, diseñadores de aplicaciones móviles y negocios asociados a las Tecnologías de la Información y la Comunicación, y tendría mucha razón; sin embargo, el emprendimiento digital también está asociado a productos y servicios físicos que usan las tecnologías para poder ser comercializados, para publicidad y procesos que soporten la actividad económica, potenciando el negocio.
+            h3.text-regular Piense por un momento qué es lo primero que se imagina cuando le mencionan los términos <b><span class='cac'>“Emprendimiento digital”</span></b>, es posible que lo primero que traiga a su mente sea un emprendimiento de videojuegos, creadores de contenido, diseñadores de aplicaciones móviles y negocios asociados a las Tecnologías de la Información y la Comunicación, y tendría mucha razón; sin embargo, el emprendimiento digital también está asociado a productos y servicios físicos que usan las tecnologías para poder ser comercializados, para publicidad y procesos que soporten la actividad económica, potenciando el negocio.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 (Escobar, 2009)
@@ -97,7 +98,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small.texto-blanco.mb-0 Para ampliar un poco la experiencia con el emprendimiento digital se le recomienda revisar el video que se encuentra en el material complementario sobre un bootcamp de emprendimiento digital en Guaviare, en el que las personas hablan de su experiencia.
+                  p.texto-blanco.mb-0 Para ampliar un poco la experiencia con el emprendimiento digital se le recomienda revisar el video que se encuentra en el material complementario sobre un bootcamp de emprendimiento digital en Guaviare, en el que las personas hablan de su experiencia.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ispoPs-zQLk" target="_blank")
                     span Ver más
@@ -112,29 +113,87 @@
           span.cuadroRDerecho.texto-blanco.mb-4.fcac ¿Cuántas decisiones tomamos en la vida?
           .mb-4
           p Seguramente hay un número gigantesco en cada una de nuestras mentes, y puede que si se reduce la pregunta a ¿cuántas decisiones tomamos en un día? El número de decisiones sigue siendo grande, desde el desayuno hasta la ropa que se usa. 
-          p Pero qué pasa con esas decisiones, si por ejemplo, se imaginará un juego de ajedrez se tendría una cantidad considerable de decisiones; la ficha posible a tomar, el movimiento a realizar; para tomar esa decisión no solo se debe basar en lo que se quiere hacer, sino también en lo que hay en el entorno.  
-          p Si se quisiera mover la reina en el tablero de ajedrez se debe analizar el tablero y los movimientos realizados por el rival. Así en un ejercicio de analogía, de igual manera, para elegir la ropa que se quiere usar seguramente se tendrá que pensar en el entorno, es decir, si se desea ir al trabajo, a una fiesta, si el clima es cálido, si está lloviendo. Todas estas son consideraciones importantes para tomar una decisión.
+          p Pero qué pasa con esas decisiones, si por ejemplo, se imaginará un juego de ajedrez se tendría una cantidad considerable de decisiones; la ficha posible a tomar, el movimiento a realizar; para tomar esa <span class='cac'><b>decisión</b></span> no solo se debe basar en lo que se quiere hacer, sino también en lo que hay en el <span class='cac'><b>entorno</b></span>.  
+          p Si se quisiera mover la reina en el tablero de ajedrez se debe analizar el tablero y los movimientos realizados por el rival. Así en un ejercicio de analogía, de igual manera, para elegir la ropa que se quiere usar seguramente se tendrá que pensar en el entorno, es decir, si se desea ir al trabajo, a una fiesta, si el clima es cálido, si está lloviendo. <span class='cac'><b>Todas estas son consideraciones importantes para tomar una decisión</b></span>.
           p Cuando se quiere llevar a cabo un emprendimiento es importante también analizar el entorno para poder tomar decisiones frente al emprendimiento, la publicidad, reconocer convocatorias y apoyos, identificar posibles aliados, actores, entre otros. En ese sentido, el primer análisis que debe contemplar es sobre los sectores económicos del país; en la siguiente infografía encuentra un resumen de los sectores económicos y su clasificación según actividades, por ello es momento de analizar este recurso.
         .col-lg-5(data-aos='fade-left')
           figure
             img(src='@/assets/curso/t1/f6.png' alt='Mujer con laptop')
-    .col-lg-10.mb-5.mx-auto(data-aos='flip-right')
-      figure
-        img(src='@/assets/curso/t1/f7.png' alt='imagen relacionada')
-    .row.align-items-center.mb-5
-      .col-lg-3(data-aos='fade-right')
+    p.text-center.mb-5 <span class="cuadroRDerecho texto-blanco fcac text-center">Sectores económicos del país</span>
+    .row.mb-5
+      .col-lg-3
+      .col-lg-2(data-aos='flip-right')
+        h4.text-center Primario
         figure
-          img(src='@/assets/curso/t1/f8.svg' alt='Hombre examinando un folio')
-      .col-lg-9
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p Para mayor información, se invita a consultar el documento adjunto del Banco de la República denominado “El sistema económico” desde la página 16 a la 18, ubicado en el material complementario.
-        .cajon.color-primario.p-4.mb-4
-          p.mb-0 Después de analizar lo anterior, piense en alguna idea de negocio que tenga en mente y trate de ubicarla en el sector o sectores al cual podría pertenecer. Además, revise las razones por las cuales es importante reconocer el entorno.
-        p En la siguiente figura se da a conocer lo que facilita el reconocimiento del entorno.
-    .col-lg-9.mx-auto.mb-5(data-aos='fade-up')
+          img(src='@/assets/curso/t1/f7-1.svg' alt='imagen relacionada')
+        p.text-center Producción y agro
+      .col-lg-2(data-aos='flip-right')
+        h4.text-center Secundario
+        figure
+          img(src='@/assets/curso/t1/f7-2.png' alt='imagen relacionada')
+        p.text-center Industria, construcción y manufactura
+      .col-lg-2(data-aos='flip-right')
+        h4.text-center Terciario
+        figure
+          img(src='@/assets/curso/t1/f7-3.png' alt='imagen relacionada')
+        p.text-center Servicios, comercio, bancos, educación
+    p.text-center.mb-5 <span class="cuadroRDerecho texto-blanco fcac text-center">Clasificación según actividad económica</span>
+    .row.mb-4
+      .col-lg-1
+      .col-lg-2(data-aos='flip-right')
+        h4.text-center 01 Agropecuario
+        figure
+          img(src='@/assets/curso/t1/f7-4.svg' alt='imagen relacionada')
+      .col-lg-2(data-aos='flip-right')
+        h4.text-center 02 Servicios
+        figure
+          img(src='@/assets/curso/t1/f7-5.svg' alt='imagen relacionada')
+      .col-lg-2(data-aos='flip-right')
+        h4.text-center 03 Industrial
+        figure
+          img(src='@/assets/curso/t1/f7-6.svg' alt='imagen relacionada')
+      .col-lg-2(data-aos='flip-right')
+        h4.text-center 04 Transporte
+        figure
+          img(src='@/assets/curso/t1/f7-7.svg' alt='imagen relacionada')
+      .col-lg-2(data-aos='flip-right')
+        h4.text-center 05 Comercio
+        figure
+          img(src='@/assets/curso/t1/f7-8.svg' alt='imagen relacionada')
+    .row.mb-4
+      .col-lg-2
+      .col-lg-2(data-aos='flip-right')
+        h4.text-center 06 Financiero
+        figure
+          img(src='@/assets/curso/t1/f7-9.svg' alt='imagen relacionada')
+      .col-lg-2(data-aos='flip-right')
+        h4.text-center 07 Construcción
+        figure
+          img(src='@/assets/curso/t1/f7-10.svg' alt='imagen relacionada')
+      .col-lg-2(data-aos='flip-right')
+        h4.text-center 08 Minero energético
+        figure
+          img(src='@/assets/curso/t1/f7-11.svg' alt='imagen relacionada')
+      .col-lg-2(data-aos='flip-right')
+        h4.text-center 09 Comunicaciones
+        figure
+          img(src='@/assets/curso/t1/f7-12.svg' alt='imagen relacionada')
+    .col-lg-9.mx-auto.mb-5
+      a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        .anexo__icono
+          img(src="@/assets/template/icono-pdf.svg")
+        .anexo__texto
+          p Para mayor información, se invita a consultar el documento adjunto del Banco de la República denominado “El sistema económico” desde la página 16 a la 18, ubicado en el material complementario.
+    .col-lg-9.mx-auto.mb-5
+      .row.align-items-center
+        .col-lg-5(data-aos='fade-right')
+          figure
+            img(src='@/assets/curso/t1/f8.svg' alt='Hombre examinando un folio')
+        .col-lg-7
+          .cajon.color-primario.p-4.mb-4
+            p.mb-0 Después de analizar lo anterior, piense en alguna idea de negocio que tenga en mente y trate de ubicarla en el sector o sectores al cual podría pertenecer. Además, revise las razones por las cuales es importante reconocer el entorno.
+          p En la siguiente figura se da a conocer lo que facilita el reconocimiento del entorno.
+    .col-lg-9.mx-auto.mb-5(data-aos='flip-up')
       figure
         img(src='@/assets/curso/t1/f9.svg' alt='Figura relacionada')
         figcaption Nota. Adaptado de García (2018).

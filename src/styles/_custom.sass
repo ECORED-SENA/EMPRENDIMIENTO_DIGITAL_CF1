@@ -1,9 +1,64 @@
+$salmon-claro: #FAE7E7
+$grisAzul-claro: #D8DFE5
+
+.cajon-b.color-acento-contenido
+  &::before
+    background-color: $salmon-claro !important
+
+.cajon-b:before
+  opacity: 1 !important
+  top: 0
+  left: 0
+  width: 35% !important
+  height: 4rem !important
+
+.cajon-c
+  &::after
+    content: ''
+    display: block
+    position: relative
+    bottom: 0
+    right: 0
+    left: calc( 65% + 1rem)
+    width: 35% !important
+    height: 4rem !important
+    background-color: #D8DFE5
+    top: -50px
+    mix-blend-mode: multiply
+
+.inicio
+  .banner-principal
+    .container.tarjeta
+      border-radius: 1rem 1rem 1rem 6rem !important
+
+.banner-principal
+  .tarjeta
+    background-position: center right !important
+
+.banner-principal__img
+  img
+    padding: 0 4rem  
+  
 $casi-blanco: #E8E8E8
 $cp10: rgba(2,48,85,.1)
 $cp20: rgba(2,48,85,.2)
+$rosa: #FFD9D9
+$grisAzul: #CED2D9
+
+.frosa
+  background-color: $rosa
+
+.fGrisAzul
+  background-color: $grisAzul
+
+.hrcac
+  border-bottom: solid 3px $color-acento-contenido
 
 .cs
   color: $color-secundario
+
+.fcs30
+  background-color: rgba(173,20,87,.3)
 
 .fcs
   background-color: $color-secundario
@@ -17,6 +72,9 @@ $cp20: rgba(2,48,85,.2)
 .fcac
   background-color: $color-acento-contenido
 
+.cac
+  color: $color-acento-contenido
+
 .fondodegradado
   background-image: url(../assets/curso/degradado.png)
   background-size: cover
@@ -24,6 +82,7 @@ $cp20: rgba(2,48,85,.2)
 .cuadroRDerecho
   padding: .5rem 1rem
   border-radius: 0 1rem 1rem 0
+  font-weight: 700
   
 .invertido-bta
   &::before
@@ -48,6 +107,42 @@ $cp20: rgba(2,48,85,.2)
   .onlyMobile
     display: none
   
+  .h290px
+    height: 290px
+
+  .tltrBR
+    border-radius: 8rem 8rem 0 0
+
+  .traslape1
+    margin-left: auto
+    margin-right: auto
+    .col-lg-8
+      position: absolute
+      margin-left: 10%
+      z-index: 1
+      &.ultimolg8
+        position: absolute
+        margin-left: 22%
+        z-index: 1
+    .col-lg-3
+      position: relative
+      margin-top: -18px
+    .col-lg-4
+      position: relative
+      margin-top: -82px
+
+
+  .traslape2
+    margin-left: auto
+    margin-right: auto
+    .col-lg-8
+      position: relative
+      margin-left: 10%
+      z-index: 1
+    .col-lg-3
+      position: absolute
+      margin-left: 60%
+  
 .bullet
   width: 1.2rem
   height: 1rem
@@ -68,3 +163,7 @@ $cp20: rgba(2,48,85,.2)
 .bg2
   background-image: url(../assets/curso/bg2.svg)
   background-size: cover
+
+.ofVisible
+  overflow: visible
+  z-index: 2
