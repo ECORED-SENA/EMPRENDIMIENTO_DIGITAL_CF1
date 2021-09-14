@@ -8,7 +8,8 @@
       h1 Emprendimiento
     .row.align-items-center.mb-4
       .col-lg-3(data-aos='fade-right')
-        img(src='@/assets/curso/t1/f1.svg' alt='Mujer con laptop y bombillo representando una idea')
+        figure.mb-4
+          img(src='@/assets/curso/t1/f1.svg' alt='Mujer con laptop y bombillo representando una idea')
       .col-lg-9
         p La primera pregunta que puede surgir frente a este tema es:
         span.cuadroRDerecho.texto-blanco.mb-4.fcac ¿Qué es el emprendimiento?
@@ -77,10 +78,10 @@
     p Sin duda alguna, al revisar estas historias de éxito hay conclusiones interesantes como la necesidad de ser creativos, analizar tendencias, innovar tecnológicamente y en todo aspecto, y estar en constante actualización. Por eso, hoy es importante que se reflexione en el contexto en el cual se está inmerso, <span class="cac"><b>“la era digital”</b></span>, y comprender que es momento de aprender y aplicar nuevas tecnologías a las ideas que surgen en respuesta a necesidades o desafíos, porque los emprendimientos cada día requieren más herramientas digitales. Continúe revisando el material para así apropiar conceptos del emprendimiento digital.
     Separador
     #t_1_2.titulo-segundo
-      h2 1.2. Emprendimiento digital
+      h2 1.2 Emprendimiento digital
     .row.align-items-center.mb-5
       .col-lg-5(data-aos='fade-right')
-        figure
+        figure.mb-4
           img(src='@/assets/curso/t1/f5.svg' alt='Persona')
       .col-lg-7
         p La era digital ha llegado, cada día es más fácil desarrollar procesos educativos, comerciales, personales o de diversa índole con solo tener una conexión a Internet y un teléfono móvil o dispositivo de conexión, lo que lleva a las personas a desarrollar nuevas habilidades y adaptarse a los cambios.
@@ -98,7 +99,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.texto-blanco.mb-0 Para ampliar un poco la experiencia con el emprendimiento digital se le recomienda revisar el video que se encuentra en el material complementario sobre un bootcamp de emprendimiento digital en Guaviare, en el que las personas hablan de su experiencia.
+                  p.texto-blanco.mb-0 Para ampliar un poco la experiencia con el emprendimiento digital se le recomienda revisar el video que se encuentra en el material complementario sobre un <em>bootcamp</em> de emprendimiento digital en Guaviare, en el que las personas hablan de su experiencia.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ispoPs-zQLk" target="_blank")
                     span Ver más
@@ -106,7 +107,7 @@
     p.mb-5 Cuando los emprendedores deciden incorporar nuevas tecnologías a sus proyectos con herramientas  que les permite agilizar muchos procesos se puede pensar en emprendimiento digital; es importante resaltar que la inclusión de estas tecnologías permite analizar el entorno, las tendencias y aprovechar las oportunidades de un mercado potencial, por eso, a continuación, se aborda un tema que permite entender la importancia del entorno y lo que sucede a nuestro alrededor en un emprendimiento.
     Separador
     #t_1_3.titulo-segundo
-      h2 1.3. La importancia del entorno
+      h2 1.3 La importancia del entorno
     .contenedor.bg1.mb-5.py-5
       .row.align-items-center
         .col-lg-7
@@ -176,14 +177,14 @@
           img(src='@/assets/curso/t1/f7-11.svg' alt='imagen relacionada')
       .col-lg-2(data-aos='flip-right')
         h4.text-center 09 Comunicaciones
-        figure
+        figure.mb-5
           img(src='@/assets/curso/t1/f7-12.svg' alt='imagen relacionada')
     .col-lg-9.mx-auto.mb-5
-      a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+      a.anexo.mb-4(:href="obtenerLink('/downloads/ElSistemaEconómico.pdf')" target="_blank")
         .anexo__icono
           img(src="@/assets/template/icono-pdf.svg")
         .anexo__texto
-          p Para mayor información, se invita a consultar el documento adjunto del Banco de la República denominado “El sistema económico” desde la página 16 a la 18, ubicado en el material complementario.
+          p <b>Anexo.</b> Para mayor información, se invita a consultar el documento adjunto del Banco de la República denominado “El sistema económico” desde la página 16 a la 18, ubicado en el material complementario.
     .col-lg-9.mx-auto.mb-5
       .row.align-items-center
         .col-lg-5(data-aos='fade-right')

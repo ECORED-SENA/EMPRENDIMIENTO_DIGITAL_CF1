@@ -6,27 +6,32 @@
       .titulo-principal__numero
         span 2
       h1 El emprendedor
-    .row.align-items-center
+    .row.align-items-center.mb-5
       .col-lg-7
-        p Emprendedor es un término muy usado hoy en día, sobre todo por el auge de las nuevas tecnologías que han impulsado proyectos que se convierten en oportunidades de emprendimiento a través de redes sociales y diversos canales. Si se analiza el término se puede encontrar que muchos autores concuerdan en que el emprendedor es un pionero y precisamente, la palabra emprendedor viene del término francés entrepreneur, que significa pionero.
+        p Emprendedor es un término muy usado hoy en día, sobre todo por el auge de las nuevas tecnologías que han impulsado proyectos que se convierten en oportunidades de emprendimiento a través de redes sociales y diversos canales. Si se analiza el término se puede encontrar que muchos autores concuerdan en que el emprendedor es un pionero y precisamente, la palabra emprendedor viene del término francés <em>entrepreneur</em>, que significa pionero.
         p Es decir, <span class='fcs30'>que el emprendedor es una persona que se arriesga y que busca innovar para satisfacer una necesidad y generar una oportunidad de negocio o empresa (Castillo, 1999)</span>.
         p Lo importante es entender que, así como el emprendimiento nace de una actitud, de un factor interno por innovar, existen características que enmarcan al emprendedor y que se hace necesario conocerlas para poder apropiarlas.
       .col-lg-5(data-aos='fade-right')
         figure
           img(src='@/assets/curso/t1/f10.png' alt='Figura relacionada')
+    Separador
     #t_2_1.titulo-segundo
-      h2 2.1. Características del emprendedor
+      h2 2.1 Características del emprendedor
     .row.align-items-center.mb-5
       .col-lg-5(data-aos='fade-right')
         figure
           img(src='@/assets/curso/t2/f5.png' alt='Figura relacionada')
       .col-lg-7
         p El emprendedor debe tener características personales que le permitan crecer y aprender en esa gran decisión de emprender. Para apropiar mejor estos conceptos se invita a consultar el siguiente video.
-        a.anexo.mb-4(href="https://www.youtube.com/watch?v=8V-Vn04ynCs&t=138s" target="_blank")
+        //a.anexo.mb-4(href="https://www.youtube.com/watch?v=8V-Vn04ynCs&t=138s" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p <b>Enlace web.</b> Características emprendedoras personales
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/8V-Vn04ynCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     Separador
     #t_2_2.titulo-segundo
       h2 2.2 Triángulo de la responsabilidad
@@ -50,7 +55,7 @@
                     i.fas.fa-link
     Separador
     #t_2_3.titulo-segundo
-      h2 2.3. Competencias del emprendedor
+      h2 2.3 Competencias del emprendedor
     .contenedor.bg2.py-5
       .row.align-items-center.mb-5
         .col-lg-7
@@ -61,7 +66,7 @@
               h3.text-regular Cuando se habla de competencia se hace referencia a actitudes, conocimientos y habilidades para realizar una tarea o alcanzar un objetivo, es decir, que no solamente es conocer, sino que también hay que desarrollar habilidades prácticas y tener actitudes correctas.
               i.fas.fa-quote-right
             .bloque-texto-d__autor 
-              .h5.mb-0 (SENA, s.f.)
+              .h5.mb-0 (SENA, s.f.).
         .col-lg-5
           figure
             img(src='@/assets/curso/t2/f2.png' alt='Jóvenes con dispositivos móviles')
@@ -88,7 +93,7 @@
             img(src='@/assets/curso/t2/f3-2.svg' alt='imagen relacionada')
         .col-lg-8.fGrisAzul.hrcac.tltrBR(data-aos='fade-left')
           .h290px.p-5
-            .ms-5
+            .me-5
               h4.pt-5 Identificar
               p.pb-5 Las limitaciones externas y propias de cada persona siempre existen, lo que implica la necesidad de generar alternativas y opciones para tomar el mejor camino, de acuerdo con la situación. La clave está en cómo enfocar la dirección: en forma rutinaria, en forma general o de manera creativa. Todas son posibles, pero así son los resultados.
       .row.align-items-end.ofVisible.traslape1
@@ -98,15 +103,16 @@
         .col-lg-8.frosa.hrcac.tltrBR(data-aos='fade-left')
           .h290px.p-5
             .ms-5
-              h4.pt-5 Decidir
-              p.pb-5 Siempre llega el momento de decidir qué hacer, es decir, tomar una decisión combinando la necesidad de tomarla con las presiones y el contexto. Intervienen además la evaluación del riesgo y búsqueda de medios para reducirlo.
+              .ms-5
+                h4.pt-5 Decidir
+                p.pb-5 Siempre llega el momento de decidir qué hacer, es decir, tomar una decisión combinando la necesidad de tomarla con las presiones y el contexto. Intervienen además la evaluación del riesgo y búsqueda de medios para reducirlo.
       .row.align-items-end.ofVisible.traslape2
         .col-lg-3(data-aos='fade-right').ofVisible
           figure.ofVisible
             img(src='@/assets/curso/t2/f3-4.svg' alt='imagen relacionada')
         .col-lg-8.fGrisAzul.hrcac.tltrBR(data-aos='fade-left')
           .h290px.p-5
-            .ms-5
+            .me-5
               h4.pt-5 Diseñar
               p.pb-5 El “cómo hacerlo”, muchas veces es el obstáculo. Este puede superarse con un enfoque creativo, aun haciendo o buscando lo que todos los demás hacen. Se puede reducir tiempo y esfuerzo, además de ser más efectivos, es decir, realmente ser estratégicos.
       .row.align-items-end.ofVisible.traslape1
@@ -118,16 +124,13 @@
             .ms-5
               h4.pt-5 Actuar
               p.pb-5 Se refiere a transformar las estrategias en acciones, es decir, “actuar”, “hacer”, uniendo activamente a la persona con el proyecto. Dejar el plano del pensamiento “aterrizando” en la concreción.
-
-          
-        
     Separador
     #t_2_4.titulo-segundo
       h2 2.4 Habilidades del Siglo XXI para el emprendedor
     .row.align-items-center.mb-5
       .col-lg-7
         .cajon-b.color-acento-contenido.p-3
-          p.mb-0 Sin duda alguna, un emprendedor es una persona en constante reinvención y debe tener la disposición para desarrollar habilidades conforme la humanidad va avanzando, por ejemplo, si se hiciera un análisis de lo que sucedía hace unos 20 años escuchar la palabra community manager era algo que no tenía sentido, pero hoy es un término común, lo que  lleva a pensar que las personas han tenido que desarrollar habilidades para poder ejercer esa labor y por supuesto, los emprendedores para integrar las habilidades de ese cargo a sus emprendimientos y planeaciones, reconocer la importancia de las redes sociales y la creación de contenido.
+          p.mb-0 Sin duda alguna, un emprendedor es una persona en constante reinvención y debe tener la disposición para desarrollar habilidades conforme la humanidad va avanzando, por ejemplo, si se hiciera un análisis de lo que sucedía hace unos 20 años escuchar la palabra <em>community manager</em> era algo que no tenía sentido, pero hoy es un término común, lo que  lleva a pensar que las personas han tenido que desarrollar habilidades para poder ejercer esa labor y por supuesto, los emprendedores para integrar las habilidades de ese cargo a sus emprendimientos y planeaciones, reconocer la importancia de las redes sociales y la creación de contenido.
         .cajon-c.p-3
           p.mb-0 Según la Unión Europea las habilidades que debe tener un emprendedor son:
         .px-4
@@ -181,10 +184,10 @@
         figure
           img(src='@/assets/curso/t2/f4.png' alt='Competencias del emprendedor')
     .cajon.color-acento-contenido.p-4.mb-5
-      p.mb-0 Finalmente, es probable que a veces se piense que es mucho lo que se necesita, pero hay que tener calma y entender que todo es un proceso y que las habilidades se van desarrollando en el transcurso del proceso.
+      p.mb-0 Finalmente, es probable que a veces se piense que es mucho lo que se necesita, pero hay que tener calma y entender que todo es un proceso y que las habilidades se van desarrollando en el transcurso del mismo.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/lT-2rQuD9eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>

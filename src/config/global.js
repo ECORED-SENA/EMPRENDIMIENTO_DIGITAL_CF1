@@ -134,7 +134,7 @@ export default {
     },
     {
       referencia:
-        'Henríquez, I., Rocxy, & Caba, S. (2015). <em>El fracaso de Blockbuster y el éxito de Netflix, lecciones aprendidas y otras por aprender</em>. Revista Electrónica Gestión de las Personas y Tecnología, 8(23),39-48 ',
+        'Henríquez, I., Rocxy, & Caba, S. (2015). <em>El fracaso de Blockbuster y el éxito de Netflix, lecciones aprendidas y otras por aprender</em>. Revista Electrónica Gestión de las Personas y Tecnología, 8(23), 39-48. ',
       link: 'https://www.redalyc.org/articulo.oa?id=477847103004',
     },
     {
@@ -145,13 +145,13 @@ export default {
     },
     {
       referencia:
-        'Lindner, J. (2021). <em>Formación para el emprendimiento para entidades de EFTP. Guía práctica</em>. Unesco. ',
+        'Lindner, J. (2021). <em>Formación al emprendimiento para entidades de EFTP. Guía práctica</em>. UNESCO. ',
       link:
-        'https://unevoc.unesco.org/pub/entrepreneurial_learning_guide_es.pdf',
+        'https://unevoc.UNESCO.org/pub/entrepreneurial_learning_guide_es.pdf',
     },
     {
       referencia:
-        'Rappi. (2021). <em>¿Qué es Rappi y cómo funciona: conoce cómo mejoramos tu calidad de vida?</em> ',
+        'Rappi. (2021). <em>Qué es Rappi y cómo funciona: conoce cómo mejoramos tu calidad de vida?</em>. ',
       link: 'https://blog.rappi.com/que-es-rappi/',
     },
     {
@@ -160,9 +160,9 @@ export default {
     },
     {
       referencia:
-        'Vargas, F. (2015). <em>Competencias transversales y espíritu emprendedor</em>. Unesco. ',
+        'Vargas, F. (2015). <em>Competencias transversales y espíritu emprendedor</em>. UNESCO. ',
       link:
-        'http://www.unesco.org/new/fileadmin/MULTIMEDIA/FIELD/Santiago/pdf/Vargas.pdf',
+        'http://www.UNESCO.org/new/fileadmin/MULTIMEDIA/FIELD/Santiago/pdf/Vargas.pdf',
     },
   ],
   glosario: [
@@ -173,6 +173,7 @@ export default {
     },
     {
       termino: 'Community manager',
+      terminoHtml: '<em>Community manager</em>',
       significado:
         'Profesional encargado de la imagen web de una empresa o personaje, tanto en redes sociales como en medios digitales.',
     },
@@ -216,8 +217,7 @@ export default {
       texto:
         'Banco de la República de Colombia. (2006). <em>El sistema económico</em>.',
       tipo: 'Documento',
-      link:
-        'https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/guia_1_el_sistema_economico.pdf',
+      descarga: 'downloads/ElSistemaEconómico.pdf',
     },
     {
       texto:
@@ -277,18 +277,59 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
-      /*{
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Andrés Felipe Herrera Roldán',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Daniela Muñoz Bedoya',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Nelson Iván Vera Briceño',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Víctor Raúl Cárdenas Cáceres      ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },*/
+      },
     ],
     gestoresRepositorio: [
       {

@@ -100,12 +100,33 @@ $grisAzul: #CED2D9
     background-color: $cp20 !important
 
 @media screen and ( max-width: 640px )
+  
+  .inicio
+    .banner-principal
+      .container.tarjeta
+        border-radius: 1rem 1rem 1rem 1rem !important
+
   .noMobile
     display: none
 
-@media screen and ( min-width: 639px )
+@media screen and ( min-width: 1200px )
+  
+  .inicio
+    .banner-principal
+      .container.tarjeta
+        border-radius: 1rem 1rem 1rem 6rem !important
+
+  .ofVisible
+    overflow: visible
+    z-index: 2
+
   .onlyMobile
     display: none
+
+  .h290px
+    height: 290px
+
+@media screen and (min-width: 1200px)
   
   .h290px
     height: 290px
@@ -142,6 +163,38 @@ $grisAzul: #CED2D9
     .col-lg-3
       position: absolute
       margin-left: 60%
+
+@media (max-width:1399px) and (min-width: 1200px)
+  
+  h3.mb-4.text-center
+    &::after
+      margin-bottom: 9rem
+      display: block
+      content: ''
+
+  .col-lg-8
+    p
+      margin-bottom: 1rem
+
+  .h290px
+    height: auto
+
+@media screen and (max-width:991px)
+  .traslape2,.traslape1
+    .ofVisible
+      max-width: 150px
+      margin: 1rem auto 0
+
+@media screen and (max-width:1199px)
+  .traslape1
+    background-color: $rosa
+
+  .traslape2
+    background-color: $grisAzul
+
+  .me-5,.ms-5
+    margin-left: 0 !important
+    margin-right: 0 !important
   
 .bullet
   width: 1.2rem
@@ -163,7 +216,3 @@ $grisAzul: #CED2D9
 .bg2
   background-image: url(../assets/curso/bg2.svg)
   background-size: cover
-
-.ofVisible
-  overflow: visible
-  z-index: 2

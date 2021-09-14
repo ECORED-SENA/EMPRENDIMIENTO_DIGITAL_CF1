@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p.mb-4 Visite el recurso que se presenta a continuación correspondiente a ¿Qué es emprender?
+    p.mb-4 Visite el recurso que se presenta a continuación, correspondiente a <span class="fcs30">¿Qué es emprender?</span>
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
