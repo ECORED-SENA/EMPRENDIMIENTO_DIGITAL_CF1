@@ -62,7 +62,7 @@
     p.mb-5 Se empieza hablando de Netflix, que hoy se considera un gigante del streaming de series y películas, pero es interesante conocer sobre su historia para identificar elementos del emprendimiento, para ello, observe el siguiente video.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/SaUS_kpzcvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.align-items-center.mb-5
       .col-lg-4(data-aos='fade-right')
         figure
@@ -91,7 +91,7 @@
             h3.text-regular Piense por un momento qué es lo primero que se imagina cuando le mencionan los términos <b><span class='cac'>“Emprendimiento digital”</span></b>, es posible que lo primero que traiga a su mente sea un emprendimiento de videojuegos, creadores de contenido, diseñadores de aplicaciones móviles y negocios asociados a las Tecnologías de la Información y la Comunicación, y tendría mucha razón; sin embargo, el emprendimiento digital también está asociado a productos y servicios físicos que usan las tecnologías para poder ser comercializados, para publicidad y procesos que soporten la actividad económica, potenciando el negocio.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 (Escobar, 2009)
+            .h5.mb-0 -(Escobar, 2009).
         .tarjeta.fondodegradado.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
@@ -114,7 +114,7 @@
           span.cuadroRDerecho.texto-blanco.mb-4.fcac ¿Cuántas decisiones tomamos en la vida?
           .mb-4
           p Seguramente hay un número gigantesco en cada una de nuestras mentes, y puede que si se reduce la pregunta a ¿cuántas decisiones tomamos en un día? El número de decisiones sigue siendo grande, desde el desayuno hasta la ropa que se usa. 
-          p Pero qué pasa con esas decisiones, si por ejemplo, se imaginará un juego de ajedrez se tendría una cantidad considerable de decisiones; la ficha posible a tomar, el movimiento a realizar; para tomar esa <span class='cac'><b>decisión</b></span> no solo se debe basar en lo que se quiere hacer, sino también en lo que hay en el <span class='cac'><b>entorno</b></span>.  
+          p Pero qué pasa con esas decisiones, si por ejemplo, se imaginara un juego de ajedrez se tendría una cantidad considerable de decisiones; la ficha posible a tomar, el movimiento a realizar; para tomar esa <span class='cac'><b>decisión</b></span> no solo se debe basar en lo que se quiere hacer, sino también en lo que hay en el <span class='cac'><b>entorno</b></span>.  
           p Si se quisiera mover la reina en el tablero de ajedrez se debe analizar el tablero y los movimientos realizados por el rival. Así en un ejercicio de analogía, de igual manera, para elegir la ropa que se quiere usar seguramente se tendrá que pensar en el entorno, es decir, si se desea ir al trabajo, a una fiesta, si el clima es cálido, si está lloviendo. <span class='cac'><b>Todas estas son consideraciones importantes para tomar una decisión</b></span>.
           p Cuando se quiere llevar a cabo un emprendimiento es importante también analizar el entorno para poder tomar decisiones frente al emprendimiento, la publicidad, reconocer convocatorias y apoyos, identificar posibles aliados, actores, entre otros. En ese sentido, el primer análisis que debe contemplar es sobre los sectores económicos del país; en la siguiente infografía encuentra un resumen de los sectores económicos y su clasificación según actividades, por ello es momento de analizar este recurso.
         .col-lg-5(data-aos='fade-left')
@@ -125,17 +125,17 @@
       .col-lg-3
       .col-lg-2(data-aos='flip-right')
         h4.text-center Primario
-        figure
+        figure.mb-5
           img(src='@/assets/curso/t1/f7-1.svg' alt='imagen relacionada')
         p.text-center Producción y agro
       .col-lg-2(data-aos='flip-right')
         h4.text-center Secundario
-        figure
+        figure.mb-5
           img(src='@/assets/curso/t1/f7-2.png' alt='imagen relacionada')
         p.text-center Industria, construcción y manufactura
       .col-lg-2(data-aos='flip-right')
         h4.text-center Terciario
-        figure
+        figure.mb-5
           img(src='@/assets/curso/t1/f7-3.png' alt='imagen relacionada')
         p.text-center Servicios, comercio, bancos, educación
     p.text-center.mb-5 <span class="cuadroRDerecho texto-blanco fcac text-center">Clasificación según actividad económica</span>
@@ -143,37 +143,37 @@
       .col-lg-1
       .col-lg-2(data-aos='flip-right')
         h4.text-center 01 Agropecuario
-        figure
+        figure.mb-5
           img(src='@/assets/curso/t1/f7-4.svg' alt='imagen relacionada')
       .col-lg-2(data-aos='flip-right')
         h4.text-center 02 Servicios
-        figure
+        figure.mb-5
           img(src='@/assets/curso/t1/f7-5.svg' alt='imagen relacionada')
       .col-lg-2(data-aos='flip-right')
         h4.text-center 03 Industrial
-        figure
+        figure.mb-5
           img(src='@/assets/curso/t1/f7-6.svg' alt='imagen relacionada')
       .col-lg-2(data-aos='flip-right')
         h4.text-center 04 Transporte
-        figure
+        figure.mb-5
           img(src='@/assets/curso/t1/f7-7.svg' alt='imagen relacionada')
       .col-lg-2(data-aos='flip-right')
         h4.text-center 05 Comercio
-        figure
+        figure.mb-5
           img(src='@/assets/curso/t1/f7-8.svg' alt='imagen relacionada')
     .row.mb-4
       .col-lg-2
       .col-lg-2(data-aos='flip-right')
         h4.text-center 06 Financiero
-        figure
+        figure.mb-5
           img(src='@/assets/curso/t1/f7-9.svg' alt='imagen relacionada')
       .col-lg-2(data-aos='flip-right')
         h4.text-center 07 Construcción
-        figure
+        figure.mb-5
           img(src='@/assets/curso/t1/f7-10.svg' alt='imagen relacionada')
       .col-lg-2(data-aos='flip-right')
         h4.text-center 08 Minero energético
-        figure
+        figure.mb-5
           img(src='@/assets/curso/t1/f7-11.svg' alt='imagen relacionada')
       .col-lg-2(data-aos='flip-right')
         h4.text-center 09 Comunicaciones

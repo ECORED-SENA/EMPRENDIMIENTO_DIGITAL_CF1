@@ -78,7 +78,7 @@
         figure(data-aos='flip-left')
           img(src='@/assets/curso/t2/f3-m.svg' alt='Competencias del emprendedor')
       h3.mb-4.text-center <span class='fcp texto-blanco p-3' style='border-radius:2rem 2rem 0 0;'>Competencias del emprendedor</span>
-      .row.align-items-end.ofVisible.traslape1
+      .row.align-items-end.ofVisible.traslape1.fila1
         .col-lg-3(data-aos='fade-right').ofVisible
           figure.ofVisible
             img(src='@/assets/curso/t2/f3-1.svg' alt='imagen relacionada')
@@ -106,7 +106,7 @@
               .ms-5
                 h4.pt-5 Decidir
                 p.pb-5 Siempre llega el momento de decidir qué hacer, es decir, tomar una decisión combinando la necesidad de tomarla con las presiones y el contexto. Intervienen además la evaluación del riesgo y búsqueda de medios para reducirlo.
-      .row.align-items-end.ofVisible.traslape2
+      .row.align-items-end.ofVisible.traslape2.penultimaFila
         .col-lg-3(data-aos='fade-right').ofVisible
           figure.ofVisible
             img(src='@/assets/curso/t2/f3-4.svg' alt='imagen relacionada')

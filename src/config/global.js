@@ -117,41 +117,41 @@ export default {
   referencias: [
     {
       referencia:
-        'Castillo, A. (1999). <em>Estado del arte en la enseñanza del emprendimiento</em>. Cámara de Comercio de Bogotá. ',
+        'Castillo, A. (1999). Estado del arte en la enseñanza del emprendimiento. Cámara de Comercio de Bogotá. ',
       link:
         'http://recursos.ccb.org.co/bogotaemprende/portalninos/contenido/doc2estadodelarteenlaensenanzadelemprendimiento.pdf',
     },
     {
       referencia:
-        'Escobar, J. M. (Ed.). (2009). <em>Emprendedor digital: factor clave del éxito en la creación y consolidación de nuevas organizaciones</em>. ',
+        'Escobar, J. M. (Ed.). (2009). Emprendedor digital: factor clave del éxito en la creación y consolidación de nuevas organizaciones. ',
       link:
         'https://adingores.sserver.es/congresos/web/uploads/cio/cio2009/562-571.pdf',
     },
     {
       referencia:
-        'García, M. A., Zerón, M., & Sánchez, Y. (2018). <em>Factores de entorno determinantes del emprendimiento en México</em>. Entramado, 14(1), 88–103. ',
+        'García, M. A., Zerón, M., & Sánchez, Y. (2018). Factores de entorno determinantes del emprendimiento en México. Entramado, 14(1), 88–103. ',
       link: 'https://doi.org/10.18041/entramado.2018v14n1.2712',
     },
     {
       referencia:
-        'Henríquez, I., Rocxy, & Caba, S. (2015). <em>El fracaso de Blockbuster y el éxito de Netflix, lecciones aprendidas y otras por aprender</em>. Revista Electrónica Gestión de las Personas y Tecnología, 8(23), 39-48. ',
+        'Henríquez, I., Rocxy, & Caba, S. (2015). El fracaso de Blockbuster y el éxito de Netflix, lecciones aprendidas y otras por aprender. Revista Electrónica Gestión de las Personas y Tecnología, 8(23), 39-48. ',
       link: 'https://www.redalyc.org/articulo.oa?id=477847103004',
     },
     {
       referencia:
-        'La República. (2021). <em>Esta es la historia de Rappi, de regalar donas en Bogotá a conquistar la banca digital</em>. ',
+        'La República. (2021). Esta es la historia de Rappi, de regalar donas en Bogotá a conquistar la banca digital. ',
       link:
         'https://www.larepublica.co/empresas/conozca-la-historia-de-rappi-de-regalar-donas-en-bogota-a-conquistar-la-banca-digital-3138462',
     },
     {
       referencia:
-        'Lindner, J. (2021). <em>Formación al emprendimiento para entidades de EFTP. Guía práctica</em>. UNESCO. ',
+        'Lindner, J. (2021). Formación al emprendimiento para entidades de EFTP. Guía práctica. UNESCO. ',
       link:
         'https://unevoc.UNESCO.org/pub/entrepreneurial_learning_guide_es.pdf',
     },
     {
       referencia:
-        'Rappi. (2021). <em>Qué es Rappi y cómo funciona: conoce cómo mejoramos tu calidad de vida?</em>. ',
+        'Rappi. (2021). Qué es Rappi y cómo funciona: conoce cómo mejoramos tu calidad de vida. ',
       link: 'https://blog.rappi.com/que-es-rappi/',
     },
     {
@@ -160,7 +160,7 @@ export default {
     },
     {
       referencia:
-        'Vargas, F. (2015). <em>Competencias transversales y espíritu emprendedor</em>. UNESCO. ',
+        'Vargas, F. (2015). Competencias transversales y espíritu emprendedor. UNESCO. ',
       link:
         'http://www.UNESCO.org/new/fileadmin/MULTIMEDIA/FIELD/Santiago/pdf/Vargas.pdf',
     },
@@ -191,37 +191,36 @@ export default {
   complementario: [
     {
       texto:
-        'SENA Red Producción de Contenidos Grupo Gestión Curricular. (2021). <em>Características emprendedoras personales</em> [video]. YouTube.',
+        'SENA Red Producción de Contenidos Grupo Gestión Curricular. (2021). Características emprendedoras personales [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=8V-Vn04ynCs&t=138s',
     },
     {
       texto:
-        'Ministerio TIC Colombia. (2013). <em>Historias de emprendimiento en Colombia y el mundo</em> [video]. YouTube.',
+        'Ministerio TIC Colombia. (2013). Historias de emprendimiento en Colombia y el mundo [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=WTiM1yq99oI',
     },
     {
       texto:
-        'Ministerio TIC Colombia. (2018). <em>Bootcamp de emprendimiento digital en Guaviare</em> [video]. YouTube.',
+        'Ministerio TIC Colombia. (2018). <em>Bootcamp</em> de emprendimiento digital en Guaviare [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ispoPs-zQLk',
     },
     {
       texto:
-        'Ministerio TIC Colombia. (2021). <em>Rival Arts Studio, un emprendimiento desde Atlántico</em> [video]. YouTube.',
+        'Ministerio TIC Colombia. (2021). <em>Rival Arts Studio</em>, un emprendimiento desde Atlántico [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Vw9sMht8HI8',
     },
     {
-      texto:
-        'Banco de la República de Colombia. (2006). <em>El sistema económico</em>.',
+      texto: 'Banco de la República de Colombia. (2006). El sistema económico.',
       tipo: 'Documento',
       descarga: 'downloads/ElSistemaEconómico.pdf',
     },
     {
       texto:
-        'SENA Red Producción de Contenidos Grupo Gestión Curricular. (2021). <em>Dimensiones emprendedoras</em> [video]. YouTube.',
+        'SENA Red Producción de Contenidos Grupo Gestión Curricular. (2021). Dimensiones emprendedoras [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=LHi0v6fhARM',
     },
@@ -239,7 +238,13 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Miguel Ricardo Rivera Lizcano',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de La Industria, La Empresa y Los Servicios - Regional Huila',
       },
       {
         nombre: 'Alix Cecilia Chinchilla Rueda',
@@ -258,24 +263,24 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Blanca Flor tinoco',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Walter Roa Serrano',
         cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Andrés Mauricio Santaella Ochoa',
@@ -328,14 +333,14 @@ export default {
         nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
