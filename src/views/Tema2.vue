@@ -18,7 +18,7 @@
     #t_2_1.titulo-segundo
       h2 2.1 Características del emprendedor
     .row.align-items-center.mb-5
-      .col-lg-5(data-aos='fade-right')
+      .col-lg-5.mb-4.mb-lg-0(data-aos='fade-right')
         figure
           img(src='@/assets/curso/t2/f5.png' alt='Figura relacionada')
       .col-lg-7
@@ -71,12 +71,7 @@
           figure
             img(src='@/assets/curso/t2/f2.png' alt='Jóvenes con dispositivos móviles')
       p.mb-5 A continuación, se presenta una infografía en la cual puede revisar las competencias del emprendedor.
-      //.col-lg-11.mx-auto.mb-5.noMobile
-        figure(data-aos='flip-right')
-          img(src='@/assets/curso/t2/f3.svg' alt='Competencias del emprendedor')
-      //.col-lg-12.mx-auto.mb-5.onlyMobile
-        figure(data-aos='flip-left')
-          img(src='@/assets/curso/t2/f3-m.svg' alt='Competencias del emprendedor')
+      
       h3.mb-4.text-center <span class='fcp texto-blanco p-3' style='border-radius:2rem 2rem 0 0;'>Competencias del emprendedor</span>
       .row.align-items-end.ofVisible.traslape1.fila1
         .col-lg-3(data-aos='fade-right').ofVisible

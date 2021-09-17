@@ -60,9 +60,11 @@
     #t_1_1.titulo-segundo
       h2 1.1 Historias inspiradoras
     p.mb-5 Se empieza hablando de Netflix, que hoy se considera un gigante del streaming de series y películas, pero es interesante conocer sobre su historia para identificar elementos del emprendimiento, para ello, observe el siguiente video.
+    
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/SaUS_kpzcvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     .row.align-items-center.mb-5
       .col-lg-4(data-aos='fade-right')
         figure
@@ -74,7 +76,8 @@
           p.mb-0 En Colombia también hay varias historias de emprendimiento, lo que ha llevado a que exista diversas convocatorias para promover estas nuevas ideas, revise, por ejemplo, en el material complementario un video de un emprendimiento en videojuegos que tuvo la oportunidad de ganar una convocatoria en el Ministerio TIC.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/UFS2NWkBQoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+       
     p Sin duda alguna, al revisar estas historias de éxito hay conclusiones interesantes como la necesidad de ser creativos, analizar tendencias, innovar tecnológicamente y en todo aspecto, y estar en constante actualización. Por eso, hoy es importante que se reflexione en el contexto en el cual se está inmerso, <span class="cac"><b>“la era digital”</b></span>, y comprender que es momento de aprender y aplicar nuevas tecnologías a las ideas que surgen en respuesta a necesidades o desafíos, porque los emprendimientos cada día requieren más herramientas digitales. Continúe revisando el material para así apropiar conceptos del emprendimiento digital.
     Separador
     #t_1_2.titulo-segundo
@@ -88,10 +91,10 @@
         .bloque-texto-d.color-primario.p-4.mb-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular Piense por un momento qué es lo primero que se imagina cuando le mencionan los términos <b><span class='cac'>“Emprendimiento digital”</span></b>, es posible que lo primero que traiga a su mente sea un emprendimiento de videojuegos, creadores de contenido, diseñadores de aplicaciones móviles y negocios asociados a las Tecnologías de la Información y la Comunicación, y tendría mucha razón; sin embargo, el emprendimiento digital también está asociado a productos y servicios físicos que usan las tecnologías para poder ser comercializados, para publicidad y procesos que soporten la actividad económica, potenciando el negocio.
+            h5.text-regular Piense por un momento qué es lo primero que se imagina cuando le mencionan los términos <b><span class='cac'>“Emprendimiento digital”</span></b>, es posible que lo primero que traiga a su mente sea un emprendimiento de videojuegos, creadores de contenido, diseñadores de aplicaciones móviles y negocios asociados a las Tecnologías de la Información y la Comunicación, y tendría mucha razón; sin embargo, el emprendimiento digital también está asociado a productos y servicios físicos que usan las tecnologías para poder ser comercializados, para publicidad y procesos que soporten la actividad económica, potenciando el negocio.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 -(Escobar, 2009).
+            .h5.mb-0 - (Escobar, 2009).
         .tarjeta.fondodegradado.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
@@ -121,64 +124,65 @@
           figure
             img(src='@/assets/curso/t1/f6.png' alt='Mujer con laptop')
     p.text-center.mb-5 <span class="cuadroRDerecho texto-blanco fcac text-center">Sectores económicos del país</span>
-    .row.mb-5
-      .col-lg-3
-      .col-lg-2(data-aos='flip-right')
-        h4.text-center Primario
-        figure.mb-5
-          img(src='@/assets/curso/t1/f7-1.svg' alt='imagen relacionada')
-        p.text-center Producción y agro
-      .col-lg-2(data-aos='flip-right')
-        h4.text-center Secundario
-        figure.mb-5
-          img(src='@/assets/curso/t1/f7-2.png' alt='imagen relacionada')
-        p.text-center Industria, construcción y manufactura
-      .col-lg-2(data-aos='flip-right')
-        h4.text-center Terciario
-        figure.mb-5
-          img(src='@/assets/curso/t1/f7-3.png' alt='imagen relacionada')
-        p.text-center Servicios, comercio, bancos, educación
+    .row.justify-content-center.mb-5  
+      .col-lg-11
+        .row    
+          .col-lg-4.mb-5.mb-lg-0(data-aos='flip-right')
+            h4.text-center Primario
+            figure.mb-3
+              img(src='@/assets/curso/t1/f7-1.svg' alt='imagen relacionada')
+            p.text-center Producción y agro
+          .col-lg-4.mb-5.mb-lg-0(data-aos='flip-right')
+            h4.text-center Secundario
+            figure.mb-3
+              img(src='@/assets/curso/t1/f7-2.png' alt='imagen relacionada')
+            p.text-center Industria, construcción y manufactura
+          .col-lg-4.mb-5.mb-lg-0(data-aos='flip-right')
+            h4.text-center Terciario
+            figure.mb-3
+              img(src='@/assets/curso/t1/f7-3.png' alt='imagen relacionada')
+            p.text-center Servicios, comercio, bancos, educación
+
     p.text-center.mb-5 <span class="cuadroRDerecho texto-blanco fcac text-center">Clasificación según actividad económica</span>
-    .row.mb-4
-      .col-lg-1
-      .col-lg-2(data-aos='flip-right')
-        h4.text-center 01 Agropecuario
-        figure.mb-5
-          img(src='@/assets/curso/t1/f7-4.svg' alt='imagen relacionada')
-      .col-lg-2(data-aos='flip-right')
-        h4.text-center 02 Servicios
-        figure.mb-5
-          img(src='@/assets/curso/t1/f7-5.svg' alt='imagen relacionada')
-      .col-lg-2(data-aos='flip-right')
-        h4.text-center 03 Industrial
-        figure.mb-5
-          img(src='@/assets/curso/t1/f7-6.svg' alt='imagen relacionada')
-      .col-lg-2(data-aos='flip-right')
-        h4.text-center 04 Transporte
-        figure.mb-5
-          img(src='@/assets/curso/t1/f7-7.svg' alt='imagen relacionada')
-      .col-lg-2(data-aos='flip-right')
-        h4.text-center 05 Comercio
-        figure.mb-5
-          img(src='@/assets/curso/t1/f7-8.svg' alt='imagen relacionada')
-    .row.mb-4
-      .col-lg-2
-      .col-lg-2(data-aos='flip-right')
-        h4.text-center 06 Financiero
-        figure.mb-5
-          img(src='@/assets/curso/t1/f7-9.svg' alt='imagen relacionada')
-      .col-lg-2(data-aos='flip-right')
-        h4.text-center 07 Construcción
-        figure.mb-5
-          img(src='@/assets/curso/t1/f7-10.svg' alt='imagen relacionada')
-      .col-lg-2(data-aos='flip-right')
-        h4.text-center 08 Minero energético
-        figure.mb-5
-          img(src='@/assets/curso/t1/f7-11.svg' alt='imagen relacionada')
-      .col-lg-2(data-aos='flip-right')
-        h4.text-center 09 Comunicaciones
-        figure.mb-5
-          img(src='@/assets/curso/t1/f7-12.svg' alt='imagen relacionada')
+    .row.justify-content-center.mb-4   
+      .col-lg-11
+        .row   
+          .col-lg-4.mb-5.mb-lg-0(data-aos='flip-right')
+            h4.text-center 01 Agropecuario
+            figure.mb-5
+              img(src='@/assets/curso/t1/f7-4.svg' alt='imagen relacionada')
+          .col-lg-4.mb-5.mb-lg-0(data-aos='flip-right')
+            h4.text-center 02 Servicios
+            figure.mb-5
+              img(src='@/assets/curso/t1/f7-5.svg' alt='imagen relacionada')
+          .col-lg-4.mb-5.mb-lg-0(data-aos='flip-right')
+            h4.text-center 03 Industrial
+            figure.mb-5
+              img(src='@/assets/curso/t1/f7-6.svg' alt='imagen relacionada')
+          .col-lg-4.mb-5.mb-lg-0(data-aos='flip-right')
+            h4.text-center 04 Transporte
+            figure.mb-5
+              img(src='@/assets/curso/t1/f7-7.svg' alt='imagen relacionada')
+          .col-lg-4.mb-5.mb-lg-0(data-aos='flip-right')
+            h4.text-center 05 Comercio
+            figure.mb-5
+              img(src='@/assets/curso/t1/f7-8.svg' alt='imagen relacionada')    
+          .col-lg-4.mb-5.mb-lg-0(data-aos='flip-right')
+            h4.text-center 06 Financiero
+            figure.mb-5
+              img(src='@/assets/curso/t1/f7-9.svg' alt='imagen relacionada')
+          .col-lg-4.mb-5.mb-lg-0(data-aos='flip-right')
+            h4.text-center 07 Construcción
+            figure.mb-5
+              img(src='@/assets/curso/t1/f7-10.svg' alt='imagen relacionada')
+          .col-lg-4.mb-5.mb-lg-0(data-aos='flip-right')
+            h4.text-center 08 Minero energético
+            figure.mb-5
+              img(src='@/assets/curso/t1/f7-11.svg' alt='imagen relacionada')
+          .col-lg-4.mb-5.mb-lg-0(data-aos='flip-right')
+            h4.text-center 09 Comunicaciones
+            figure.mb-5
+              img(src='@/assets/curso/t1/f7-12.svg' alt='imagen relacionada')
     .col-lg-9.mx-auto.mb-5
       a.anexo.mb-4(:href="obtenerLink('/downloads/ElSistemaEconómico.pdf')" target="_blank")
         .anexo__icono

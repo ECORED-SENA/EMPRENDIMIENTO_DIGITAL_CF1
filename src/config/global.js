@@ -242,9 +242,9 @@ export default {
       },
       {
         nombre: 'Miguel Ricardo Rivera Lizcano',
-        cargo: 'Experto temático',
+        cargo: 'Instructor',
         centro:
-          'Centro de La Industria, La Empresa y Los Servicios - Regional Huila',
+          'Centro de la Industria, la Empresa y los Servicios - Regional Huila',
       },
       {
         nombre: 'Alix Cecilia Chinchilla Rueda',
@@ -271,7 +271,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Blanca Flor tinoco',
+        nombre: 'Blanca Flor Tinoco Torres',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
