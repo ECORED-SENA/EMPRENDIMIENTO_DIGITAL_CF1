@@ -66,12 +66,21 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/SaUS_kpzcvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.align-items-center.mb-5
-      .col-lg-4(data-aos='fade-right')
+      .col-lg-4.mb-4.mb-lg-0(data-aos='fade-right')
         figure
           img(src='@/assets/curso/t1/f4.png' alt='mujer con una tablet')
       .col-lg-8
-        .cajon-b.color-acento-contenido.p-3
+        .cajon-b.color-acento-contenido.p-3.mb-3
           p.mb-0 Uno de los factores claves de Netflix fue analizar lo que se venía y no quedarse atrás, de hecho, uno de los gigantes de la industria de las películas en los 90 era Blockbuster y hoy ya no existe, posiblemente porque no tuvo en cuenta los cambios que venían con la influencia de Internet en las casas y lo que esto representaba en la sociedad de consumo, que cambió sus hábitos, volviéndose obsoleto y, sin ninguna alternativa a este cambio dejó de existir en el mercado.
+
+        .row
+          .col-auto
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Caso_Netflix.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p.mb-0 Infografía. Caso Netflix
+        
         .cajon-c.p-3
           p.mb-0 En Colombia también hay varias historias de emprendimiento, lo que ha llevado a que exista diversas convocatorias para promover estas nuevas ideas, revise, por ejemplo, en el material complementario un video de un emprendimiento en videojuegos que tuvo la oportunidad de ganar una convocatoria en el Ministerio TIC.
     figure.mb-5
