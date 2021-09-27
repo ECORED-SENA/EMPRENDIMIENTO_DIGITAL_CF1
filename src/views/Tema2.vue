@@ -80,8 +80,8 @@
         .col-lg-8.frosa.hrcac.tltrBR(data-aos='fade-left')
           .h290px.p-5
             .ms-5
-              h4.pt-5 Visualizar
-              p.pb-5 Es el reconocimiento de los diferentes objetivos individuales y sus  interrelaciones, valorando sentimientos y conocimientos previos, de acuerdo con la realidad que rodea el proyecto o actividad. Prestar atención a una definición clara de su propósito facilita las cosas y es más eficaz, pues permite enfocar mucho mejor sus esfuerzos.
+              h4.pt-5.ml4rbig Visualizar
+              p.pb-5.ml4rbig Es el reconocimiento de los diferentes objetivos individuales y sus  interrelaciones, valorando sentimientos y conocimientos previos, de acuerdo con la realidad que rodea el proyecto o actividad. Prestar atención a una definición clara de su propósito facilita las cosas y es más eficaz, pues permite enfocar mucho mejor sus esfuerzos.
       .row.align-items-end.ofVisible.traslape2
         .col-lg-3(data-aos='fade-right').ofVisible
           figure.ofVisible
