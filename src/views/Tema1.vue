@@ -87,7 +87,11 @@
           p.mb-0 Uno de los factores claves de Netflix fue analizar lo que se venía y no quedarse atrás, de hecho, uno de los gigantes de la industria de las películas en los 90 era Blockbuster y hoy ya no existe, posiblemente porque no tuvo en cuenta los cambios que venían con la influencia de Internet en las casas y lo que esto representaba en la sociedad de consumo, que cambió sus hábitos, volviéndose obsoleto y, sin ninguna alternativa a este cambio dejó de existir en el mercado.
         .cajon-c.px-3
           p.mb-0 En Colombia también hay varias historias de emprendimiento, lo que ha llevado a que exista diversas convocatorias para promover estas nuevas ideas, revise, por ejemplo, en el material complementario un video de un emprendimiento en videojuegos que tuvo la oportunidad de ganar una convocatoria en el Ministerio TIC.
-       
+    
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2e6z-A8wKL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     p Sin duda alguna, al revisar estas historias de éxito hay conclusiones interesantes como la necesidad de ser creativos, analizar tendencias, innovar tecnológicamente y en todo aspecto, y estar en constante actualización. Por eso, hoy es importante que se reflexione en el contexto en el cual se está inmerso, <span class="cac"><b>“la era digital”</b></span>, y comprender que es momento de aprender y aplicar nuevas tecnologías a las ideas que surgen en respuesta a necesidades o desafíos, porque los emprendimientos cada día requieren más herramientas digitales. Continúe revisando el material para así apropiar conceptos del emprendimiento digital.
     Separador
     #t_1_2.titulo-segundo
