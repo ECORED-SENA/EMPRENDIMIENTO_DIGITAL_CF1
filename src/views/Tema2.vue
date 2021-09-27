@@ -63,7 +63,7 @@
           .bloque-texto-d.color-primario.p-4.mb-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
-              h3.text-regular Cuando se habla de competencia se hace referencia a actitudes, conocimientos y habilidades para realizar una tarea o alcanzar un objetivo, es decir, que no solamente es conocer, sino que también hay que desarrollar habilidades prácticas y tener actitudes correctas.
+              h4.text-regular Cuando se habla de competencia se hace referencia a actitudes, conocimientos y habilidades para realizar una tarea o alcanzar un objetivo, es decir, que no solamente es conocer, sino que también hay que desarrollar habilidades prácticas y tener actitudes correctas.
               i.fas.fa-quote-right
             .bloque-texto-d__autor 
               .h5.mb-0 (SENA, s.f.).
