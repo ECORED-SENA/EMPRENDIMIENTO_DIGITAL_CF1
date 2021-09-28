@@ -102,11 +102,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      /*{
+      {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
-      },*/
+      },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -216,7 +216,7 @@ export default {
     {
       texto: 'Banco de la República de Colombia. (2006). El sistema económico.',
       tipo: 'Documento',
-      descarga: 'downloads/ElSistemaEconómico.pdf',
+      descarga: 'downloads/ElSistemaEconomico.pdf',
     },
     {
       texto:
