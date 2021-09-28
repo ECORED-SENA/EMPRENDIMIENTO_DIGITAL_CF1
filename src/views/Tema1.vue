@@ -198,7 +198,7 @@
             figure.mb-5
               img(src='@/assets/curso/t1/f7-12.svg' alt='imagen relacionada')
     .col-lg-9.mx-auto.mb-5
-      a.anexo.mb-4(:href="obtenerLink('/downloads/ElSistemaEconómico.pdf')" target="_blank")
+      a.anexo.mb-4(:href="obtenerLink('/downloads/ElSistemaEconomico.pdf')" target="_blank")
         .anexo__icono
           img(src="@/assets/template/icono-pdf.svg")
         .anexo__texto
